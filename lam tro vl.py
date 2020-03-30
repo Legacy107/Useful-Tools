@@ -1,5 +1,5 @@
 #! python3
-import webbrowser, parser
+import webbrowser, parser, time
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
@@ -32,6 +32,7 @@ Name.send_keys(yourname)
 Next = browser.find_element_by_xpath('/html/body/div/div[2]/form/div/div/div[3]/div[1]/div[1]/div[2]/span')
 Next.click()
 # ------------3rd page-------------
+time.sleep(5)
 try:
     element_present = EC.presence_of_element_located((By.XPATH, '/html/body/div/div[2]/form/div/div/div[2]/div[17]/div/div[2]/div/span/div/div[1]/label'))
     WebDriverWait(browser, timeout).until(element_present)
