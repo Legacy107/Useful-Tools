@@ -12,7 +12,7 @@ When you run the program for the first time, it will ask for your name. Type in 
 
 The program will automatically answer all the questions in the form like a "normal person". On the last page, you will be able to go back and change any answers or just click "Send" to confirm.
 
-**Note:** This program is only compatible with Chrome 80. Please make sure you are using the right version of Chrome.
+**Note:** This program is only compatible with Chrome 80 and 64-bit computer. Please make sure you are using the right version of Chrome.
 
 Here are some screenshots:
 #### Page 1:
