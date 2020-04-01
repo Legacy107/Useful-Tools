@@ -4,7 +4,7 @@ This is a small tool to fill forms automatically.
 
 ## Installation
 
- Download the Autofill-Chrome.exe file or if you want to take a look at the source code, download the Autofill-Chrome.py file.
+ Download the Autofill-Chrome.rar file and extract it, then run the Autofill-Chrome.exe file. If you want to take a look at the source code, download the Source.rar file.
 
 ## Usage
 
