@@ -1,6 +1,6 @@
 # Autofill tool
 
-This is a small tool to fill forms automatically.
+This is a small tool to fill the COVID-19 form of LHP high school for the gifted automatically.
 
 ## Installation
 
