@@ -8,7 +8,7 @@ This is a small tool to fill the COVID-19 form of LHP high school for the gifted
 
 ## Usage
 
-When you run the program for the first time, it will ask for your name. Type in your full name and press enter.
+Before running the program, open the name.txt file, delete everything and type in your full name.
 
 The program will automatically answer all the questions in the form like a "normal person". On the last page, you will be able to go back and change any answers or just click "Send" to confirm.
 
